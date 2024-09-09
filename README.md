@@ -1,4 +1,4 @@
 A module, support for magisk / kitsune mask / kernelsu / apatch.
 
 Features:
-- Automatic update "target.txt" from Tricky Store.
+- Automatically update "target.txt" to Tricky Store every 12 hours.
